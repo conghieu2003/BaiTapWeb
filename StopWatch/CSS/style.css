@@ -1,0 +1,28 @@
+#display {
+    font-weight: bold;
+    font-size: 100px;
+    text-align: center;
+    background-color: aqua;
+    margin-left: 500px;
+    margin-right: 400px;
+}
+
+.button button {
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+#start {
+    background-color: blue;
+    color: white;
+}
+
+#stop {
+    background-color: red;
+    color: white;
+}
+
+#reset {
+    background-color: rgb(95, 199, 10);
+    color: white;
+}
